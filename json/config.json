@@ -1,0 +1,17 @@
+{
+    "KeyConfig": {
+        "OK": 0,
+        "Cancel": 1,
+        "Shot": 0,
+        "Bomb": 1,
+        "Pause": 2
+    },
+    "MediaConfig": {
+        "BGMVolume": 70,
+        "SEVolume": 70
+    },
+    "GameConfig": {
+        "Rest": 9,
+        "Difficulty": 1
+    }
+}
